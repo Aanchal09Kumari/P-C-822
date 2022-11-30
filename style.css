@@ -1,0 +1,14 @@
+#bodybackground{
+    background-image: url("colorful-2468874__480.jpg");
+    background-position: centre;
+    background-size: cover;
+    }
+    h1{
+        color:red ;
+        font-size: 40;
+    }
+    #mycanvas{
+        border-width: 10px;
+        background-color: white;
+        border-style: ridge;
+    }
